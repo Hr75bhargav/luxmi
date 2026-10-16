@@ -1,11 +1,36 @@
-<div align="center">
+# Luxmi Mobile Hub - Official Website
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Premium informational website for **Luxmi Mobile Hub**, a mobile phone and gadgets store located in **Indri, Karnal, Haryana**.
 
-  <h1>Built with AI Studio</h2>
+## Store Details
+- **Business Name:** Luxmi Mobile Hub
+- **Location:** First Floor of Luxmi Readymade Store, Naya Bazar, Near Water Tank 2, New Bazaar, Khukhani, Indri, Haryana 132041
+- **Google Rating:** 4.9★ based on ~40 reviews
+- **Brands:** Apple, Samsung, OnePlus & genuine accessories
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Getting Started
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### 1. Install Dependencies
+```bash
+npm install
+```
 
-</div>
+### 2. Run the Development Server
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) or the port indicated in your terminal.
+
+### 3. Build for Production
+```bash
+npm run build
+```
+
+## Features
+- Modern dark/metallic aesthetic tailored for luxury smartphone retail
+- Fast, responsive design (desktop & mobile)
+- Interactive inquiries directly routed to WhatsApp
+- Google Maps navigation and directions
+- Verified customer reviews showcase
+- Schema.org LocalBusiness structured data for local SEO
